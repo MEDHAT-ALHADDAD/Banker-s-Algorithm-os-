@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554759696 source:e:\collage\full projects\unrefiend\p1\p1\main.cpp
+	"iostream"
+	"string"
+	"vector"
+	"tuple"
+	"ctime"
+	"iomanip"
+
